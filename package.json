@@ -1,0 +1,22 @@
+{
+  "name": "cool-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvsswave/Cool-Profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvsswave/Cool-Profile/issues"
+  },
+  "homepage": "https://github.com/bvsswave/Cool-Profile#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
